@@ -37,4 +37,4 @@ Welcome to my GitHub profile! I am a passionate tech student exploring the inter
 ---
 
 ### 📫 Connect with me:
-* **LinkedIn:** [Tirthajit De on LinkedIn](https://www.linkedin.com/jobs/) *(Note: Change this link to your actual profile link instead of /jobs/)*
+* **LinkedIn:** [Tirthajit De on LinkedIn](https://www.linkedin.com/jobs/)
