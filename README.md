@@ -31,10 +31,6 @@ Welcome to my GitHub profile! I am a passionate tech student exploring the inter
 
 ---
 
-## 📊 GitHub Stats
-[Tirthajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirthajitDe&show_icons=true&theme=dark&count_private=true)
-
----
 
 ### 📫 Connect with me:
 * **LinkedIn:** [Tirthajit De on LinkedIn](https://www.linkedin.com/jobs/)
